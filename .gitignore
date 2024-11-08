@@ -1,0 +1,7 @@
+.DS_STORE
+
+.terraform/
+.terraform.tfstate.lock.info
+*.tfstate
+*.tfstate.backup
+rdp_configs/*.rdp
